@@ -1,0 +1,13 @@
+{
+  "name": "formIo",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
